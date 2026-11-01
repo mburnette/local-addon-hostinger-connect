@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="ConnectLocal for Hostinger">
+  <!-- Hostinger's "H" mark (from the official logo) in white on a Hostinger purple tile. The mark's own box is about
+       24.9 x 29.3 starting at y 0.8; it is scaled to 64 high and centred. -->
+  <rect width="120" height="120" rx="24" fill="#673de6"/>
+  <g transform="translate(32.8 26.26) scale(2.187)">
+    <path fill="#fff" fill-rule="evenodd" d="m17.8175.798004v8.729406l7.0525 4.12459v-9.25917zm-17.81725511.000429v13.698467h22.93675511l-6.9786-3.8357-9.0909-.0044v-6.17182zm17.81725511 25.471867v-6.1186l-9.16098-.0064c.00855.0408-7.09448-3.8969-7.09448-3.8969l23.30786.1101v13.6982zm-17.81725567-8.9516-.00024433 8.9516 6.8675 3.5946v-8.5192z"/>
+  </g>
+</svg>
