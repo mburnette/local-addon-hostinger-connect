@@ -5,6 +5,8 @@ turns that section into the new version's entry and uses it as the GitHub releas
 
 ## Unreleased
 
+## 1.1.0 - 2026-10-31
+
 - First release.
 - Push a Local site's files, database, or both to a WordPress website on Hostinger web or cloud hosting (Premium plan or higher, with SSH turned on).
 - Pull them back into an existing Local site, or into a brand-new Local site.
@@ -17,3 +19,4 @@ turns that section into the new version's entry and uses it as the GitHub releas
 - Agency Plan websites are supported through the Agency API (untested).
 - Update checks: the add-on looks for new releases on GitHub when Local starts and every 12 hours, and shows an
   **Update** button in its panel when one is out. **Check for updates** at the bottom of the panel checks right away.
+
