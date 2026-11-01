@@ -174,7 +174,7 @@ A theme or plugin that you develop in another folder and symlink into the Local 
   It never turns SSH on, adds keys, or changes PHP settings; those stay in hPanel.
 - **Shared SSH connection:** on macOS and Linux, each push, pull or comparison logs in once and runs every command over that connection. Its control socket is `hgc-<hash>` in a temporary folder only your user can use.
 
-## Checked on a live account
+## Verified on a live account
 
 On 2026-10-31 and 11-01, against a Hostinger **Premium** shared plan with one WordPress website (PHP 8.3, MariaDB 11.8, WP-CLI 2.12, rsync 3.2.7):
 
